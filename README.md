@@ -104,5 +104,3 @@ python num_recognizer.py
 This project is open-source and free to use for learning purposes.
 
 ---
-
-👉 Do you want me to also add a **requirements.txt** file (so you can install all dependencies in one command with `pip install -r requirements.txt`)?
